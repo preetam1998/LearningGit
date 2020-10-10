@@ -18,3 +18,6 @@ arr = [1,5,3,8,6,9]
 insertion_sort(arr)
 for i in range(0,len(arr)):
     print(arr[i])
+    
+print("Getting done with INsertion sort")
+print("Present in Preetam Branch")
